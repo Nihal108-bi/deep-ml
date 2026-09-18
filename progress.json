@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:42:19.715Z",
+  "generated_at": "2026-09-18T05:42:30.161Z",
   "items": {
     "problem:1114": {
       "kind": "problem",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/problems/1114",
       "path": "problems/1114-rank-rows-within-partitions-using-window-functions",
       "first_solved_at": "2026-09-18T05:42:16.244Z",
-      "last_pushed_at": "2026-09-18T05:42:16.244Z",
+      "last_pushed_at": "2026-09-18T05:42:29.374Z",
       "language": "sql",
       "lines": 8
     }
